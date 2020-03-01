@@ -1,0 +1,8 @@
+{
+  "_comment_0": "this file is actually useless. The i18n-loader takes care of merging",
+  "_comment_1": "and generating the en-US.json file on the go",
+  "_comment_2": "The issue however is changes inside localization folder will not",
+  "_comment_3": "get re-rendered untill you make changes to this file :(",
+  "_comment_4": "So, either run npm start again, or just change something in this file:",
+  "change_me": "cccc"
+}
